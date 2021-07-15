@@ -1,7 +1,7 @@
 package collection.pkg2;
 
 import java.util.*;
-
+//collection egxample
 public class CollectionMain {
 
 	public static void main(String[] args) {
